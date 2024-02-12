@@ -34,7 +34,7 @@ This project is released under the [MIT License](https://opensource.org/licenses
 We acknowledge the contributions of the developers and researchers behind LoRA, Hugging Face's Transformers library, and the various language models utilized in this project. Their efforts have been instrumental in advancing the field of natural language processing and making state-of-the-art models accessible to the wider community.
 
 ## Contact:
-For questions, feedback, or inquiries related to the project, please contact [subhrastien@gmail.com].
+For questions, feedback, or inquiries related to the project, please contact [email](subhrastien@gmail.com).
 
 ## Disclaimer:
 While every effort has been made to ensure the accuracy and reliability of the information provided in this project, the developers make no guarantees regarding its suitability for any particular purpose. Users are encouraged to exercise caution and verify results independently before making decisions based on the content of this project.
